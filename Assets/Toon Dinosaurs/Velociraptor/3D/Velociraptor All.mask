@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Velociraptor All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Raptor
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor L Thigh
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor L Thigh/Raptor L Calf
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor L Thigh/Raptor L Calf/Raptor L Foot
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor L Thigh/Raptor L Calf/Raptor L Foot/Raptor
+      L Toe0
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor L Thigh/Raptor L Calf/Raptor L Foot/Raptor
+      L Toe0/Raptor L Toe01
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor R Thigh
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor R Thigh/Raptor R Calf
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor R Thigh/Raptor R Calf/Raptor R Foot
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor R Thigh/Raptor R Calf/Raptor R Foot/Raptor
+      R Toe0
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor R Thigh/Raptor R Calf/Raptor R Foot/Raptor
+      R Toe0/Raptor R Toe01
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor L Clavicle
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor L Clavicle/Raptor
+      L UpperArm
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor L Clavicle/Raptor
+      L UpperArm/Raptor L Forearm
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor L Clavicle/Raptor
+      L UpperArm/Raptor L Forearm/Raptor L Hand
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor L Clavicle/Raptor
+      L UpperArm/Raptor L Forearm/Raptor L Hand/Raptor L Finger0
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor L Clavicle/Raptor
+      L UpperArm/Raptor L Forearm/Raptor L Hand/Raptor L Finger0/Raptor L Finger01
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor L Clavicle/Raptor
+      L UpperArm/Raptor L Forearm/Raptor L Hand/Raptor L Finger1
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor L Clavicle/Raptor
+      L UpperArm/Raptor L Forearm/Raptor L Hand/Raptor L Finger1/Raptor L Finger11
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Eye
+      Squash Left
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Eye
+      Squash Left/Eye Left
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Eye
+      Squash Left/Eye Shine Left
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Eye
+      Squash Right
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Eye
+      Squash Right/Eye Right
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Eye
+      Squash Right/Eye Shine Right
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      Jaw
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      Jaw/Raptor L Lower Mouth
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      Jaw/Raptor R Lower Mouth
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      Jaw/Raptor Tongue
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      Jaw/Raptor Tongue/Raptor Tongue02
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      Jaw/Raptor Tongue/Raptor Tongue02/Raptor Tongue03
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      L Eyebrow
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      L Mouth
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      L Upper Mouth
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      R Eyebrow
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      R Mouth
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor Neck/Raptor Head/Raptor
+      R Upper Mouth
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor R Clavicle
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor R Clavicle/Raptor
+      R UpperArm
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor R Clavicle/Raptor
+      R UpperArm/Raptor R Forearm
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor R Clavicle/Raptor
+      R UpperArm/Raptor R Forearm/Raptor R Hand
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor R Clavicle/Raptor
+      R UpperArm/Raptor R Forearm/Raptor R Hand/Raptor R Finger0
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor R Clavicle/Raptor
+      R UpperArm/Raptor R Forearm/Raptor R Hand/Raptor R Finger0/Raptor R Finger01
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor R Clavicle/Raptor
+      R UpperArm/Raptor R Forearm/Raptor R Hand/Raptor R Finger1
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Spine/Raptor Spine1/Raptor R Clavicle/Raptor
+      R UpperArm/Raptor R Forearm/Raptor R Hand/Raptor R Finger1/Raptor R Finger11
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Tail
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Tail/Raptor Tail02
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Tail/Raptor Tail02/Raptor Tail03
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Tail/Raptor Tail02/Raptor Tail03/Raptor Tail04
+    m_Weight: 1
+  - m_Path: Raptor/Raptor Pelvis/Raptor Tail/Raptor Tail02/Raptor Tail03/Raptor Tail04/Raptor
+      Tail05
+    m_Weight: 1
+  - m_Path: Raptor Mesh
+    m_Weight: 1

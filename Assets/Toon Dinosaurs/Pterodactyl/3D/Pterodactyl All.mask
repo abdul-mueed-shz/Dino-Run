@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pterodactyl All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Pterodactyl
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl L Thigh
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl L Thigh/Pterodactyl L Calf
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl L Thigh/Pterodactyl L Calf/Pterodactyl
+      L Foot
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl L Thigh/Pterodactyl L Calf/Pterodactyl
+      L Foot/Pterodactyl L Toe0
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl R Thigh
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl R Thigh/Pterodactyl R Calf
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl R Thigh/Pterodactyl R Calf/Pterodactyl
+      R Foot
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl R Thigh/Pterodactyl R Calf/Pterodactyl
+      R Foot/Pterodactyl R Toe0
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm/Pterodactyl L Forearm
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm/Pterodactyl L Forearm/Pterodactyl
+      L Hand
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm/Pterodactyl L Forearm/Pterodactyl
+      L Hand/Pterodactyl L Finger0
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm/Pterodactyl L Forearm/Pterodactyl
+      L Hand/Pterodactyl L Finger0/Pterodactyl L Finger01
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm/Pterodactyl L Forearm/Pterodactyl
+      L Hand/Pterodactyl L Finger1
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm/Pterodactyl L Forearm/Pterodactyl
+      L Hand/Pterodactyl L Finger1/Pterodactyl L Finger11
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm/Pterodactyl L Forearm/Pterodactyl
+      L Hand/Pterodactyl L Finger2
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl L Clavicle/Pterodactyl L UpperArm/Pterodactyl L Forearm/Pterodactyl
+      L Hand/Pterodactyl L Finger2/Pterodactyl L Finger21
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Eye Left
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Eye Right
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Eye Shine Left
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Eye Shine Right
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl Jaw
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl Jaw/Pterodactyl Tongue
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl Jaw/Pterodactyl Tongue/Pterodactyl
+      Tongue02
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl Jaw/Pterodactyl Tongue/Pterodactyl
+      Tongue02/Pterodactyl Tongue03
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl L Eyebrow
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl R Eyebrow
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl Neck/Pterodactyl Head/Pterodactyl R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm/Pterodactyl R Forearm
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm/Pterodactyl R Forearm/Pterodactyl
+      R Hand
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm/Pterodactyl R Forearm/Pterodactyl
+      R Hand/Pterodactyl R Finger0
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm/Pterodactyl R Forearm/Pterodactyl
+      R Hand/Pterodactyl R Finger0/Pterodactyl R Finger01
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm/Pterodactyl R Forearm/Pterodactyl
+      R Hand/Pterodactyl R Finger1
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm/Pterodactyl R Forearm/Pterodactyl
+      R Hand/Pterodactyl R Finger1/Pterodactyl R Finger11
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm/Pterodactyl R Forearm/Pterodactyl
+      R Hand/Pterodactyl R Finger2
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Spine/Pterodactyl Spine1/Pterodactyl
+      Spine2/Pterodactyl R Clavicle/Pterodactyl R UpperArm/Pterodactyl R Forearm/Pterodactyl
+      R Hand/Pterodactyl R Finger2/Pterodactyl R Finger21
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Tail
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Tail/Pterodactyl Tail1
+    m_Weight: 1
+  - m_Path: Pterodactyl/Pterodactyl Pelvis/Pterodactyl Tail/Pterodactyl Tail1/Pterodactyl
+      Tail2
+    m_Weight: 1
+  - m_Path: Pterodactyl Mesh
+    m_Weight: 1

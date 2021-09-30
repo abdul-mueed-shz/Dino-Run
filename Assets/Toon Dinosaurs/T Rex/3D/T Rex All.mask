@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: T Rex All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: T Rex
+    m_Weight: 1
+  - m_Path: TRex
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex L Thigh
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0/TRex
+      L Toe01
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0/TRex
+      L Toe01/TRex L Toe02
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex R Thigh
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0/TRex
+      R Toe01
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0/TRex
+      R Toe01/TRex R Toe02
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+      L Forearm
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+      L Forearm/TRex L Hand
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+      L Forearm/TRex L Hand/TRex L Finger0
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+      L Forearm/TRex L Hand/TRex L Finger1
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Left
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Right
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Shine
+      Left
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Shine
+      Right
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+      L Lower Mouth
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+      R Lower Mouth
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+      Tongue
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+      Tongue/TRex Tongue02
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+      Tongue/TRex Tongue02/TRex Tongue03
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Eyebrow
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Lower
+      Eyelid
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Mouth
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Upper
+      Eyelid
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Upper
+      Mouth
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Eyebrow
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Lower
+      Eyelid
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Mouth
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Upper
+      Eyelid
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Upper
+      Mouth
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+      R Forearm
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+      R Forearm/TRex R Hand
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+      R Forearm/TRex R Hand/TRex R Finger0
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+      R Forearm/TRex R Hand/TRex R Finger1
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Tail
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Tail/TRex Tail02
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03/TRex Tail04
+    m_Weight: 1
+  - m_Path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03/TRex Tail04/TRex Tail05
+    m_Weight: 1

@@ -1,0 +1,1221 @@
+fileFormatVersion: 2
+guid: 173b9489fc062eb4d87ab57ac6dd84af
+timeCreated: 1524766999
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Eye Left
+    100002: Eye Right
+    100004: Eye Shine Left
+    100006: Eye Shine Right
+    100008: //RootNode
+    100010: TRex
+    100012: TRex Head
+    100014: TRex Jaw
+    100016: TRex L Calf
+    100018: TRex L Clavicle
+    100020: TRex L Eyebrow
+    100022: TRex L Finger0
+    100024: TRex L Finger1
+    100026: TRex L Foot
+    100028: TRex L Forearm
+    100030: TRex L Hand
+    100032: TRex L Lower Eyelid
+    100034: TRex L Lower Mouth
+    100036: TRex L Mouth
+    100038: TRex L Thigh
+    100040: TRex L Toe0
+    100042: TRex L Toe01
+    100044: TRex L Toe02
+    100046: TRex L Upper Eyelid
+    100048: TRex L Upper Mouth
+    100050: TRex L UpperArm
+    100052: TRex Neck
+    100054: TRex Pelvis
+    100056: TRex R Calf
+    100058: TRex R Clavicle
+    100060: TRex R Eyebrow
+    100062: TRex R Finger0
+    100064: TRex R Finger1
+    100066: TRex R Foot
+    100068: TRex R Forearm
+    100070: TRex R Hand
+    100072: TRex R Lower Eyelid
+    100074: TRex R Lower Mouth
+    100076: TRex R Mouth
+    100078: TRex R Thigh
+    100080: TRex R Toe0
+    100082: TRex R Toe01
+    100084: TRex R Toe02
+    100086: TRex R Upper Eyelid
+    100088: TRex R Upper Mouth
+    100090: TRex R UpperArm
+    100092: TRex Spine
+    100094: TRex Spine1
+    100096: TRex Tail
+    100098: TRex Tail02
+    100100: TRex Tail03
+    100102: TRex Tail04
+    100104: TRex Tail05
+    100106: TRex Tongue
+    100108: TRex Tongue02
+    100110: TRex Tongue03
+    100112: T Rex
+    400000: Eye Left
+    400002: Eye Right
+    400004: Eye Shine Left
+    400006: Eye Shine Right
+    400008: //RootNode
+    400010: TRex
+    400012: TRex Head
+    400014: TRex Jaw
+    400016: TRex L Calf
+    400018: TRex L Clavicle
+    400020: TRex L Eyebrow
+    400022: TRex L Finger0
+    400024: TRex L Finger1
+    400026: TRex L Foot
+    400028: TRex L Forearm
+    400030: TRex L Hand
+    400032: TRex L Lower Eyelid
+    400034: TRex L Lower Mouth
+    400036: TRex L Mouth
+    400038: TRex L Thigh
+    400040: TRex L Toe0
+    400042: TRex L Toe01
+    400044: TRex L Toe02
+    400046: TRex L Upper Eyelid
+    400048: TRex L Upper Mouth
+    400050: TRex L UpperArm
+    400052: TRex Neck
+    400054: TRex Pelvis
+    400056: TRex R Calf
+    400058: TRex R Clavicle
+    400060: TRex R Eyebrow
+    400062: TRex R Finger0
+    400064: TRex R Finger1
+    400066: TRex R Foot
+    400068: TRex R Forearm
+    400070: TRex R Hand
+    400072: TRex R Lower Eyelid
+    400074: TRex R Lower Mouth
+    400076: TRex R Mouth
+    400078: TRex R Thigh
+    400080: TRex R Toe0
+    400082: TRex R Toe01
+    400084: TRex R Toe02
+    400086: TRex R Upper Eyelid
+    400088: TRex R Upper Mouth
+    400090: TRex R UpperArm
+    400092: TRex Spine
+    400094: TRex Spine1
+    400096: TRex Tail
+    400098: TRex Tail02
+    400100: TRex Tail03
+    400102: TRex Tail04
+    400104: TRex Tail05
+    400106: TRex Tongue
+    400108: TRex Tongue02
+    400110: TRex Tongue03
+    400112: T Rex
+    2100000: 03 - Default
+    2100002: 02 - Default
+    2300000: Eye Left
+    2300002: Eye Right
+    2300004: Eye Shine Left
+    2300006: Eye Shine Right
+    3300000: Eye Left
+    3300002: Eye Right
+    3300004: Eye Shine Left
+    3300006: Eye Shine Right
+    4300000: Eye Shine Right
+    4300002: Eye Right
+    4300004: Eye Left
+    4300006: Eye Shine Left
+    4300008: T Rex
+    7400000: T Rex Bite
+    7400002: T Rex Tail
+    7400004: T Rex Stomp
+    9500000: //RootNode
+    13700000: T Rex
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\n\t'TRex Jaw' has translation animation that
+      will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: T Rex Bite
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: T Rex
+        weight: 1
+      - path: TRex
+        weight: 1
+      - path: TRex/TRex Pelvis
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0/TRex
+          L Toe01
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0/TRex
+          L Toe01/TRex L Toe02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0/TRex
+          R Toe01
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0/TRex
+          R Toe01/TRex R Toe02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand/TRex L Finger0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand/TRex L Finger1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Left
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Right
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Shine
+          Left
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Shine
+          Right
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          L Lower Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          R Lower Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue/TRex Tongue02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue/TRex Tongue02/TRex Tongue03
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Eyebrow
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Lower
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Upper
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Upper
+          Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Eyebrow
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Lower
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Upper
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Upper
+          Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand/TRex R Finger0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand/TRex R Finger1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03/TRex Tail04
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03/TRex Tail04/TRex
+          Tail05
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 7e78206d4cba677448f746c3291d573c, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: T Rex Tail
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: T Rex
+        weight: 1
+      - path: TRex
+        weight: 1
+      - path: TRex/TRex Pelvis
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0/TRex
+          L Toe01
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0/TRex
+          L Toe01/TRex L Toe02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0/TRex
+          R Toe01
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0/TRex
+          R Toe01/TRex R Toe02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand/TRex L Finger0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand/TRex L Finger1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Left
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Right
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Shine
+          Left
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Shine
+          Right
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          L Lower Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          R Lower Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue/TRex Tongue02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue/TRex Tongue02/TRex Tongue03
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Eyebrow
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Lower
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Upper
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Upper
+          Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Eyebrow
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Lower
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Upper
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Upper
+          Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand/TRex R Finger0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand/TRex R Finger1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03/TRex Tail04
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03/TRex Tail04/TRex
+          Tail05
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 7e78206d4cba677448f746c3291d573c, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: T Rex Stomp
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: T Rex
+        weight: 1
+      - path: TRex
+        weight: 1
+      - path: TRex/TRex Pelvis
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0/TRex
+          L Toe01
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex L Thigh/TRex L Calf/TRex L Foot/TRex L Toe0/TRex
+          L Toe01/TRex L Toe02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0/TRex
+          R Toe01
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex R Thigh/TRex R Calf/TRex R Foot/TRex R Toe0/TRex
+          R Toe01/TRex R Toe02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand/TRex L Finger0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex L Clavicle/TRex L UpperArm/TRex
+          L Forearm/TRex L Hand/TRex L Finger1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Left
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Right
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Shine
+          Left
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/Eye Shine
+          Right
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          L Lower Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          R Lower Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue/TRex Tongue02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex Jaw/TRex
+          Tongue/TRex Tongue02/TRex Tongue03
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Eyebrow
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Lower
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Upper
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex L Upper
+          Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Eyebrow
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Lower
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Upper
+          Eyelid
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex Neck/TRex Head/TRex R Upper
+          Mouth
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand/TRex R Finger0
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Spine/TRex Spine1/TRex R Clavicle/TRex R UpperArm/TRex
+          R Forearm/TRex R Hand/TRex R Finger1
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03/TRex Tail04
+        weight: 1
+      - path: TRex/TRex Pelvis/TRex Tail/TRex Tail02/TRex Tail03/TRex Tail04/TRex
+          Tail05
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 7e78206d4cba677448f746c3291d573c, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: TRex Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRex Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: T Rex(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.000000494173, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T Rex
+      parentName: T Rex(Clone)
+      position: {x: -0, y: 0.00000030517577, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: TRex
+      parentName: T Rex(Clone)
+      position: {x: -0.0016330592, y: 1.2435907, z: -0.45063528}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: TRex Pelvis
+      parentName: TRex
+      position: {x: -0.4506354, y: -0.0000006854535, z: -0.3597984}
+      rotation: {x: 0.000000029802319, y: -0.70710737, z: -0.7071063, w: 0.00000020861623}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000005}
+    - name: TRex Spine
+      parentName: TRex Pelvis
+      position: {x: -0.031585846, y: 0.15963529, z: -0.00000038921831}
+      rotation: {x: 0.0000008321979, y: 0.0000010728834, z: 0.7205541, w: -0.69339865}
+      scale: {x: 1, y: 1.0000002, z: 0.9999999}
+    - name: TRex Spine1
+      parentName: TRex Spine
+      position: {x: -0.47733572, y: -0.00036567688, z: -0.0000000013411044}
+      rotation: {x: 0.00000025346816, y: -0.00000023999075, z: -0.08679993, w: 0.99622583}
+      scale: {x: 0.9999999, y: 0.9999995, z: 0.9999997}
+    - name: TRex Neck
+      parentName: TRex Spine1
+      position: {x: -0.45956832, y: -0.00018913268, z: -5.9604643e-10}
+      rotation: {x: -0.00000022874059, y: -0.00000043251768, z: -0.074922666, w: 0.9971894}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: TRex Head
+      parentName: TRex Neck
+      position: {x: -0.23752868, y: -0.000000076293944, z: 0}
+      rotation: {x: -0.000000038287656, y: -0.0000014507173, z: 0.2305349, w: 0.9730641}
+      scale: {x: 0.9999999, y: 0.9999995, z: 0.9999997}
+    - name: Eye Left
+      parentName: TRex Head
+      position: {x: -0.57952726, y: 0.5325088, z: 0.23157074}
+      rotation: {x: -0.38536108, y: 0.06095761, z: -0.001643196, w: 0.9207488}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Eye Right
+      parentName: TRex Head
+      position: {x: -0.5786359, y: 0.53585386, z: -0.22272547}
+      rotation: {x: -0.90639615, y: 0.093727894, z: 0.0000040262535, w: 0.41189936}
+      scale: {x: 1, y: 1.0000001, z: 0.9999997}
+    - name: Eye Shine Left
+      parentName: TRex Head
+      position: {x: -0.59578156, y: 0.5957557, z: 0.30725202}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999946, y: 1.4999996, z: 0.99999976}
+    - name: Eye Shine Right
+      parentName: TRex Head
+      position: {x: -0.59606063, y: 0.615123, z: -0.29716352}
+      rotation: {x: -0.00081837486, y: -0.007922893, z: -0.0035680514, w: 0.999962}
+      scale: {x: 0.9999993, y: 1.4999996, z: 1.0000001}
+    - name: TRex Jaw
+      parentName: TRex Head
+      position: {x: -0.24075927, y: 0.092353664, z: -0.0000006392598}
+      rotation: {x: -0.000000084956206, y: -0.0000025397133, z: 0.8886277, w: -0.45862928}
+      scale: {x: 1.0000002, y: 0.99999976, z: 1}
+    - name: TRex R Lower Mouth
+      parentName: TRex Jaw
+      position: {x: -0.6205827, y: -0.046505738, z: -0.27096316}
+      rotation: {x: -0.6660939, y: 0.23731789, z: -0.66590416, w: -0.23784627}
+      scale: {x: 1.0000006, y: 0.9999999, z: 0.99999964}
+    - name: TRex Tongue
+      parentName: TRex Jaw
+      position: {x: -0.38802186, y: 0.088727415, z: 0.0000013442337}
+      rotation: {x: 0.000000022478005, y: -0.0000010091043, z: 0.3428875, w: 0.93937653}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1}
+    - name: TRex Tongue02
+      parentName: TRex Tongue
+      position: {x: -0.26282644, y: -0.0001649475, z: -4.4703483e-10}
+      rotation: {x: -0.0000000101044035, y: 0.000000683055, z: -0.24397755, w: 0.96978086}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+    - name: TRex Tongue03
+      parentName: TRex Tongue02
+      position: {x: -0.23538604, y: -0.00015441894, z: -5.9604643e-10}
+      rotation: {x: -0.0000000501035, y: -0.00000013621803, z: 0.065909624, w: 0.9978256}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: TRex L Lower Mouth
+      parentName: TRex Jaw
+      position: {x: -0.6205824, y: -0.04650711, z: 0.27096286}
+      rotation: {x: -0.6660939, y: 0.2373141, z: 0.6659054, w: 0.23784639}
+      scale: {x: 1.0000002, y: 0.9999997, z: 0.9999996}
+    - name: TRex R Mouth
+      parentName: TRex Head
+      position: {x: -0.16694519, y: 0.2383583, z: -0.4301012}
+      rotation: {x: 0.00028096596, y: -0.7071068, z: -0.000283976, w: 0.70710665}
+      scale: {x: 1.0000012, y: 1.0000001, z: 0.9999997}
+    - name: TRex R Eyebrow
+      parentName: TRex Head
+      position: {x: -0.78167707, y: 0.6605255, z: -0.22590548}
+      rotation: {x: -0.14230534, y: 0.15905954, z: -0.46311417, w: -0.8602178}
+      scale: {x: 1.0000007, y: 0.99999964, z: 1.0000006}
+    - name: TRex R Upper Eyelid
+      parentName: TRex Head
+      position: {x: -0.5856196, y: 0.48478875, z: -0.13584414}
+      rotation: {x: -0.41334987, y: -0.31429675, z: -0.43769392, w: 0.7340188}
+      scale: {x: 1.0000005, y: 0.9999997, z: 0.9999997}
+    - name: TRex R Lower Eyelid
+      parentName: TRex Head
+      position: {x: -0.53639984, y: 0.4711949, z: -0.15467668}
+      rotation: {x: -0.25529364, y: -0.38706473, z: -0.684709, w: 0.56229854}
+      scale: {x: 1.000001, y: 1.0000002, z: 0.9999999}
+    - name: TRex R Upper Mouth
+      parentName: TRex Head
+      position: {x: -0.2528021, y: 0.9139563, z: -0.3035633}
+      rotation: {x: 0.00028096596, y: -0.7071068, z: -0.000283976, w: 0.70710665}
+      scale: {x: 1.0000012, y: 1.0000001, z: 0.9999997}
+    - name: TRex L Mouth
+      parentName: TRex Head
+      position: {x: -0.16694519, y: 0.23835593, z: 0.43010265}
+      rotation: {x: 0.00028095683, y: -0.7071067, z: 0.00028012236, w: -0.70710677}
+      scale: {x: 1.0000004, y: 0.99999994, z: 0.9999995}
+    - name: TRex L Eyebrow
+      parentName: TRex Head
+      position: {x: -0.78167707, y: 0.6605244, z: 0.22590916}
+      rotation: {x: 0.14230543, y: -0.15905707, z: -0.46311507, w: -0.8602177}
+      scale: {x: 1.0000004, y: 0.9999995, z: 0.9999999}
+    - name: TRex L Upper Eyelid
+      parentName: TRex Head
+      position: {x: -0.5856196, y: 0.48478797, z: 0.13584684}
+      rotation: {x: -0.41335, y: -0.3142992, z: 0.43769214, w: -0.73401874}
+      scale: {x: 1.0000002, y: 0.9999996, z: 0.9999999}
+    - name: TRex L Upper Mouth
+      parentName: TRex Head
+      position: {x: -0.2528021, y: 0.9139546, z: 0.30356833}
+      rotation: {x: 0.00028095683, y: -0.7071067, z: 0.00028012236, w: -0.70710677}
+      scale: {x: 1.0000004, y: 0.99999994, z: 0.9999995}
+    - name: TRex L Lower Eyelid
+      parentName: TRex Head
+      position: {x: -0.53639984, y: 0.47119406, z: 0.1546793}
+      rotation: {x: -0.25529382, y: -0.3870689, z: 0.68470687, w: -0.5622982}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000006}
+    - name: TRex R Clavicle
+      parentName: TRex Spine1
+      position: {x: -0.33117118, y: -0.054340895, z: -0.12644921}
+      rotation: {x: 0.67333317, y: -0.14224213, z: 0.722567, w: -0.06547143}
+      scale: {x: 1.0000011, y: 1.0000007, z: 1.0000008}
+    - name: TRex R UpperArm
+      parentName: TRex R Clavicle
+      position: {x: -0.4095063, y: 0, z: -0.000000076293944}
+      rotation: {x: 0.5191966, y: -0.073770344, z: -0.087298945, w: 0.84697807}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000007}
+    - name: TRex R Forearm
+      parentName: TRex R UpperArm
+      position: {x: -0.2069495, y: 0.000000076293944, z: 0}
+      rotation: {x: 0.032567985, y: -0.036252283, z: -0.00006482373, w: 0.99881184}
+      scale: {x: 1.0000015, y: 0.99999994, z: 1.0000002}
+    - name: TRex R Hand
+      parentName: TRex R Forearm
+      position: {x: -0.27397126, y: 0, z: 0}
+      rotation: {x: -0.35131413, y: -0.011505676, z: 0.27266416, w: -0.89560056}
+      scale: {x: 1.0000002, y: 1, z: 0.9999986}
+    - name: TRex R Finger0
+      parentName: TRex R Hand
+      position: {x: -0.10875305, y: 0.0057219695, z: 0.029817047}
+      rotation: {x: 0.09487531, y: 0.059300773, z: -0.31990266, w: 0.9408212}
+      scale: {x: 0.99999917, y: 1.0000006, z: 1.0000011}
+    - name: TRex R Finger1
+      parentName: TRex R Hand
+      position: {x: -0.11096084, y: 0.009224624, z: -0.03316719}
+      rotation: {x: 0.0003766566, y: 0.00012905149, z: -0.32429978, w: 0.9459543}
+      scale: {x: 0.99999964, y: 1.0000002, z: 1.0000002}
+    - name: TRex L Clavicle
+      parentName: TRex Spine1
+      position: {x: -0.33117118, y: -0.05434166, z: 0.1264489}
+      rotation: {x: 0.6733333, y: -0.14224121, z: -0.72256726, w: 0.06547049}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000004}
+    - name: TRex L UpperArm
+      parentName: TRex L Clavicle
+      position: {x: -0.4095062, y: 0, z: 0.000000076293944}
+      rotation: {x: -0.5191967, y: 0.07377002, z: -0.08729938, w: 0.846978}
+      scale: {x: 0.99999976, y: 1.0000007, z: 1.0000008}
+    - name: TRex L Forearm
+      parentName: TRex L UpperArm
+      position: {x: -0.20694946, y: 0.000000076293944, z: 0.000000076293944}
+      rotation: {x: -0.032567784, y: 0.03625252, z: -0.000064842374, w: 0.9988119}
+      scale: {x: 0.99999905, y: 1.0000023, z: 1.0000005}
+    - name: TRex L Hand
+      parentName: TRex L Forearm
+      position: {x: -0.2739712, y: 0, z: 0}
+      rotation: {x: -0.33751118, y: -0.037567094, z: -0.3418074, w: 0.87626636}
+      scale: {x: 0.99999815, y: 1.0000031, z: 1.0000011}
+    - name: TRex L Finger0
+      parentName: TRex L Hand
+      position: {x: -0.10875312, y: 0.005721817, z: -0.029817047}
+      rotation: {x: -0.094875365, y: -0.05930081, z: -0.31990263, w: 0.9408212}
+      scale: {x: 1.0000001, y: 1.0000012, z: 0.9999992}
+    - name: TRex L Finger1
+      parentName: TRex L Hand
+      position: {x: -0.11096092, y: 0.009224624, z: 0.03316719}
+      rotation: {x: -0.00037671626, y: -0.00012928247, z: -0.3242997, w: 0.9459543}
+      scale: {x: 0.9999983, y: 1.0000017, z: 0.9999998}
+    - name: TRex R Thigh
+      parentName: TRex Pelvis
+      position: {x: -0.0000005340576, y: -0.0000004959106, z: -0.36916098}
+      rotation: {x: 0.6400395, y: 0.75638753, z: -0.07673151, w: -0.1110833}
+      scale: {x: 1.0000002, y: 0.99999964, z: 1.0000001}
+    - name: TRex R Calf
+      parentName: TRex R Thigh
+      position: {x: -0.671529, y: 0.000000076293944, z: 0.000000038146972}
+      rotation: {x: -0.014097396, y: 0.019492175, z: 0.29630712, w: 0.95478976}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.99999994}
+    - name: TRex R Foot
+      parentName: TRex R Calf
+      position: {x: -0.38591102, y: 0, z: -0.000000038146972}
+      rotation: {x: -0.0020052386, y: 0.032742374, z: 0.13049336, w: 0.99090636}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000005}
+    - name: TRex R Toe0
+      parentName: TRex R Foot
+      position: {x: -0.15207492, y: 0.3014633, z: -0.024090003}
+      rotation: {x: 0.018324682, y: -0.037027538, z: -0.8782864, w: 0.4763466}
+      scale: {x: 1.0000004, y: 0.99999964, z: 1.0000006}
+    - name: TRex R Toe01
+      parentName: TRex R Toe0
+      position: {x: -0.23153912, y: -0.0000000047683715, z: 0.000000038146972}
+      rotation: {x: -0.000000004656612, y: -0, z: 0.000000008556524, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: TRex R Toe02
+      parentName: TRex R Toe01
+      position: {x: -0.23153909, y: 0.0000000047683715, z: -0.000000038146972}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: TRex Tail
+      parentName: TRex Pelvis
+      position: {x: 0.16120285, y: -0.21746758, z: 0.0000007173419}
+      rotation: {x: -0.0000017980029, y: -0.0000010728835, z: 0.76561415, w: 0.6433001}
+      scale: {x: 1, y: 0.99999976, z: 0.9999996}
+    - name: TRex Tail02
+      parentName: TRex Tail
+      position: {x: -0.3832689, y: -0.00027694702, z: -5.9604643e-10}
+      rotation: {x: 0.00000014785648, y: 0.0000008542083, z: -0.3478293, w: 0.9375578}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1}
+    - name: TRex Tail03
+      parentName: TRex Tail02
+      position: {x: -0.38317984, y: -0.0003025818, z: -8.9406965e-10}
+      rotation: {x: -0.00000042922628, y: 0.00000087136584, z: -0.18057974, w: 0.9835604}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: TRex Tail04
+      parentName: TRex Tail03
+      position: {x: -0.38314095, y: -0.00023818969, z: -7.45058e-10}
+      rotation: {x: 0.00000008336581, y: 0.00000034692252, z: -0.12815872, w: 0.99175364}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: TRex Tail05
+      parentName: TRex Tail04
+      position: {x: -0.29919434, y: -0.00021850585, z: -4.4703483e-10}
+      rotation: {x: -0, y: -0, z: 4.3865854e-15, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: TRex L Thigh
+      parentName: TRex Pelvis
+      position: {x: 0.0000005340576, y: 0.00000057220456, z: 0.36916107}
+      rotation: {x: 0.6400394, y: 0.75638753, z: 0.076731004, w: 0.1110854}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.99999946}
+    - name: TRex L Calf
+      parentName: TRex L Thigh
+      position: {x: -0.67152894, y: 0.000000057220458, z: 0}
+      rotation: {x: 0.014097389, y: -0.01949197, z: 0.29630667, w: 0.9547899}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: TRex L Foot
+      parentName: TRex L Calf
+      position: {x: -0.38591102, y: 0, z: 0.000000038146972}
+      rotation: {x: 0.0020185888, y: -0.032673616, z: 0.13019265, w: 0.99094814}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: TRex L Toe0
+      parentName: TRex L Foot
+      position: {x: -0.15207489, y: 0.3014633, z: 0.024090003}
+      rotation: {x: -0.0183246, y: 0.03702744, z: -0.8782864, w: 0.4763466}
+      scale: {x: 1, y: 0.99999934, z: 1.0000001}
+    - name: TRex L Toe01
+      parentName: TRex L Toe0
+      position: {x: -0.23153912, y: 0.0000000047683715, z: 0}
+      rotation: {x: 0.0000000046566124, y: -0, z: 0.0000000036670822, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.9999999}
+    - name: TRex L Toe02
+      parentName: TRex L Toe01
+      position: {x: -0.23153913, y: 0.0000000047683715, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: ce7f8aac13cb77b47a9adb69b4303021,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

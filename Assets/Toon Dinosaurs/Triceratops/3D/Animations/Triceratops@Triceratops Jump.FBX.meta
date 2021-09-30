@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: 206f3a6c5deb81c48aacd5dac2dbec80
+timeCreated: 1525705821
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Eye Left
+    100002: Eye Right
+    100004: Eye Shine Left
+    100006: Eye Shine Right
+    100008: Triceratops
+    100010: Triceratops Head
+    100012: Triceratops Jaw
+    100014: Triceratops L Calf
+    100016: Triceratops L Clavicle
+    100018: Triceratops L Eyebrow
+    100020: Triceratops L Finger0
+    100022: Triceratops L Foot
+    100024: Triceratops L Forearm
+    100026: Triceratops L Hand
+    100028: Triceratops L Lower Eyelid
+    100030: Triceratops L Mouth
+    100032: Triceratops L Thigh
+    100034: Triceratops L Toe0
+    100036: Triceratops L Upper Eyelid
+    100038: Triceratops L Upper Mouth
+    100040: Triceratops L UpperArm
+    100042: Triceratops Neck
+    100044: Triceratops Pelvis
+    100046: Triceratops R Calf
+    100048: Triceratops R Clavicle
+    100050: Triceratops R Eyebrow
+    100052: Triceratops R Finger0
+    100054: Triceratops R Foot
+    100056: Triceratops R Forearm
+    100058: Triceratops R Hand
+    100060: Triceratops R Lower Eyelid
+    100062: Triceratops R Mouth
+    100064: Triceratops R Thigh
+    100066: Triceratops R Toe0
+    100068: Triceratops R Upper Eyelid
+    100070: Triceratops R Upper Mouth
+    100072: Triceratops R UpperArm
+    100074: Triceratops Spine
+    100076: Triceratops Spine1
+    100078: Triceratops Tail
+    100080: Triceratops Tail02
+    100082: Triceratops Tail03
+    100084: Triceratops Tail04
+    100086: Triceratops Tail05
+    100088: Triceratops Tongue
+    100090: Triceratops Tongue02
+    100092: Triceratops Tongue03
+    100094: //RootNode
+    400000: Eye Left
+    400002: Eye Right
+    400004: Eye Shine Left
+    400006: Eye Shine Right
+    400008: Triceratops
+    400010: Triceratops Head
+    400012: Triceratops Jaw
+    400014: Triceratops L Calf
+    400016: Triceratops L Clavicle
+    400018: Triceratops L Eyebrow
+    400020: Triceratops L Finger0
+    400022: Triceratops L Foot
+    400024: Triceratops L Forearm
+    400026: Triceratops L Hand
+    400028: Triceratops L Lower Eyelid
+    400030: Triceratops L Mouth
+    400032: Triceratops L Thigh
+    400034: Triceratops L Toe0
+    400036: Triceratops L Upper Eyelid
+    400038: Triceratops L Upper Mouth
+    400040: Triceratops L UpperArm
+    400042: Triceratops Neck
+    400044: Triceratops Pelvis
+    400046: Triceratops R Calf
+    400048: Triceratops R Clavicle
+    400050: Triceratops R Eyebrow
+    400052: Triceratops R Finger0
+    400054: Triceratops R Foot
+    400056: Triceratops R Forearm
+    400058: Triceratops R Hand
+    400060: Triceratops R Lower Eyelid
+    400062: Triceratops R Mouth
+    400064: Triceratops R Thigh
+    400066: Triceratops R Toe0
+    400068: Triceratops R Upper Eyelid
+    400070: Triceratops R Upper Mouth
+    400072: Triceratops R UpperArm
+    400074: Triceratops Spine
+    400076: Triceratops Spine1
+    400078: Triceratops Tail
+    400080: Triceratops Tail02
+    400082: Triceratops Tail03
+    400084: Triceratops Tail04
+    400086: Triceratops Tail05
+    400088: Triceratops Tongue
+    400090: Triceratops Tongue02
+    400092: Triceratops Tongue03
+    400094: //RootNode
+    2100000: 03 - Default
+    2100002: 02 - Default
+    2300000: Eye Left
+    2300002: Eye Right
+    2300004: Eye Shine Left
+    2300006: Eye Shine Right
+    3300000: Eye Left
+    3300002: Eye Right
+    3300004: Eye Shine Left
+    3300006: Eye Shine Right
+    4300000: Eye Shine Left
+    4300002: Eye Left
+    4300004: Eye Shine Right
+    4300006: Eye Right
+    7400000: Triceratops Jump Up
+    7400002: Triceratops Fall
+    7400004: Triceratops Land
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Triceratops Jump Up
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Triceratops
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf/Triceratops
+          L Foot
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf/Triceratops
+          L Foot/Triceratops L Toe0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf/Triceratops
+          R Foot
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf/Triceratops
+          R Foot/Triceratops R Toe0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm/Triceratops L Hand
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm/Triceratops L Hand/Triceratops
+          L Finger0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Left
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Right
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Shine Left
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Shine Right
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops L Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops R Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue/Triceratops Tongue02
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue/Triceratops Tongue02/Triceratops
+          Tongue03
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Eyebrow
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Lower Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Upper Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Upper Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Eyebrow
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Lower Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Upper Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Upper Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm/Triceratops R Hand
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm/Triceratops R Hand/Triceratops
+          R Finger0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03/Triceratops Tail04
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03/Triceratops Tail04/Triceratops Tail05
+        weight: 1
+      - path: Triceratops Mesh
+        weight: 0
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: d95c39adc6a18e948987a6e0fff23659, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Triceratops Fall
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Triceratops
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf/Triceratops
+          L Foot
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf/Triceratops
+          L Foot/Triceratops L Toe0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf/Triceratops
+          R Foot
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf/Triceratops
+          R Foot/Triceratops R Toe0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm/Triceratops L Hand
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm/Triceratops L Hand/Triceratops
+          L Finger0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Left
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Right
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Shine Left
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Shine Right
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops L Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops R Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue/Triceratops Tongue02
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue/Triceratops Tongue02/Triceratops
+          Tongue03
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Eyebrow
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Lower Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Upper Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Upper Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Eyebrow
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Lower Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Upper Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Upper Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm/Triceratops R Hand
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm/Triceratops R Hand/Triceratops
+          R Finger0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03/Triceratops Tail04
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03/Triceratops Tail04/Triceratops Tail05
+        weight: 1
+      - path: Triceratops Mesh
+        weight: 0
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: d95c39adc6a18e948987a6e0fff23659, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Triceratops Land
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Triceratops
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf/Triceratops
+          L Foot
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops L Thigh/Triceratops L Calf/Triceratops
+          L Foot/Triceratops L Toe0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf/Triceratops
+          R Foot
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops R Thigh/Triceratops R Calf/Triceratops
+          R Foot/Triceratops R Toe0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm/Triceratops L Hand
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          L Clavicle/Triceratops L UpperArm/Triceratops L Forearm/Triceratops L Hand/Triceratops
+          L Finger0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Left
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Right
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Shine Left
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Eye Shine Right
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops L Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops R Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue/Triceratops Tongue02
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops Jaw/Triceratops Tongue/Triceratops Tongue02/Triceratops
+          Tongue03
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Eyebrow
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Lower Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Upper Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops L Upper Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Eyebrow
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Lower Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Upper Eyelid
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          Neck/Triceratops Head/Triceratops R Upper Mouth
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm/Triceratops R Hand
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Spine/Triceratops Spine1/Triceratops
+          R Clavicle/Triceratops R UpperArm/Triceratops R Forearm/Triceratops R Hand/Triceratops
+          R Finger0
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03/Triceratops Tail04
+        weight: 1
+      - path: Triceratops/Triceratops Pelvis/Triceratops Tail/Triceratops Tail02/Triceratops
+          Tail03/Triceratops Tail04/Triceratops Tail05
+        weight: 1
+      - path: Triceratops Mesh
+        weight: 0
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: d95c39adc6a18e948987a6e0fff23659, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Triceratops Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Triceratops R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Triceratops(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Triceratops
+      parentName: Triceratops(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Triceratops
+      parentName: Triceratops(Clone)
+      position: {x: -0.0000000046250275, y: 0.8542125, z: -0.57915026}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Triceratops Footsteps
+      parentName: Triceratops
+      position: {x: -0, y: 0, z: -0.8283156}
+      rotation: {x: 0, y: -0, z: -0.7071063, w: 0.70710725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Triceratops Pelvis
+      parentName: Triceratops
+      position: {x: -0.5791503, y: -0.00000078976166, z: -0.2191459}
+      rotation: {x: -0.00000038743013, y: 0.7071077, z: 0.7071059, w: 0.00000056624407}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Triceratops L Thigh
+      parentName: Triceratops Pelvis
+      position: {x: 0.00000045776366, y: 0.0000005340576, z: 0.3434472}
+      rotation: {x: 0.6385806, y: 0.7641125, z: 0.04238059, w: 0.08093774}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Triceratops L Calf
+      parentName: Triceratops L Thigh
+      position: {x: -0.50161093, y: -0.000000038146972, z: 0}
+      rotation: {x: 0.000000002254227, y: -0.000000022281618, z: 0.16252147, w: 0.98670506}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Triceratops L Foot
+      parentName: Triceratops L Calf
+      position: {x: -0.2427578, y: 0.000000038146972, z: 0}
+      rotation: {x: -0.089724325, y: 0.039825007, z: -0.05374052, w: 0.9937181}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Triceratops L Toe0
+      parentName: Triceratops L Foot
+      position: {x: -0.10029241, y: 0.12461214, z: 0.000000038146972}
+      rotation: {x: 0.000000015454313, y: -0.000000015454313, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Triceratops R Thigh
+      parentName: Triceratops Pelvis
+      position: {x: -0.00000045776366, y: -0.00000045776366, z: -0.3434472}
+      rotation: {x: 0.63858086, y: 0.7641123, z: -0.04238244, w: -0.080936186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Triceratops R Calf
+      parentName: Triceratops R Thigh
+      position: {x: -0.50161093, y: -0.000000038146972, z: -0.000000038146972}
+      rotation: {x: -0.0000000017947563, y: 0.000000022357296, z: 0.16252147, w: 0.98670506}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Triceratops R Foot
+      parentName: Triceratops R Calf
+      position: {x: -0.24275783, y: 0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 0.08921928, y: -0.047041386, z: -0.0796623, w: 0.99170613}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Triceratops R Toe0
+      parentName: Triceratops R Foot
+      position: {x: -0.100292414, y: 0.12461216, z: -0.000000038146972}
+      rotation: {x: -0.000000015454313, y: 0.000000015454313, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Triceratops Spine
+      parentName: Triceratops Pelvis
+      position: {x: -0.027612915, y: 0.09422844, z: -0.00000048792543}
+      rotation: {x: -0.0000016738544, y: 0.000001954067, z: -0.698424, w: 0.71568424}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Triceratops Spine1
+      parentName: Triceratops Spine
+      position: {x: -0.41274032, y: -0.00032737732, z: -0.0000000010206713}
+      rotation: {x: 0.00000018244744, y: 0.00000038241112, z: -0.043240074, w: 0.99906474}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Triceratops L Clavicle
+      parentName: Triceratops Spine1
+      position: {x: -0.347866, y: 0.04101364, z: 0.10145489}
+      rotation: {x: 0.6995571, y: -0.10305876, z: -0.6994729, w: 0.10361675}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Triceratops L UpperArm
+      parentName: Triceratops L Clavicle
+      position: {x: -0.35506767, y: 0.000000038146972, z: 0}
+      rotation: {x: -0.69554293, y: 0.08296396, z: -0.08284348, w: 0.708854}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Triceratops L Forearm
+      parentName: Triceratops L UpperArm
+      position: {x: -0.24307315, y: 0, z: 0.000000038146972}
+      rotation: {x: -0.0049522496, y: 0.024425268, z: 0.031404927, w: 0.999196}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Triceratops L Hand
+      parentName: Triceratops L Forearm
+      position: {x: -0.23474701, y: 0.000000019073486, z: 0}
+      rotation: {x: -0.113530345, y: -0.014585632, z: 0.05754995, w: 0.9917592}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Triceratops L Finger0
+      parentName: Triceratops L Hand
+      position: {x: -0.15194282, y: 0, z: 0}
+      rotation: {x: -0.00039815909, y: 7.9293905e-11, z: 0.000000001862677, w: 0.99999994}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Triceratops Neck
+      parentName: Triceratops Spine1
+      position: {x: -0.41276732, y: -0.00014450072, z: -4.0090525e-10}
+      rotation: {x: 2.126761e-13, y: 0.0000005043419, z: -0.18183649, w: 0.9833288}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Triceratops Head
+      parentName: Triceratops Neck
+      position: {x: -0.19429745, y: -0.000000076293944, z: -1.4551915e-13}
+      rotation: {x: 0.000001729323, y: -0.0000028863567, z: 0.3381745, w: 0.94108343}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Eye Left
+      parentName: Triceratops Head
+      position: {x: -0.12903939, y: 0.5061206, z: 0.25490025}
+      rotation: {x: -0.42367908, y: 0.42775112, z: 0.56077325, w: 0.56838226}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Eye Right
+      parentName: Triceratops Head
+      position: {x: -0.12903929, y: 0.50612134, z: -0.25405234}
+      rotation: {x: 0.56392795, y: -0.55479705, z: -0.43775836, w: -0.42726249}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000004}
+    - name: Eye Shine Left
+      parentName: Triceratops Head
+      position: {x: -0.14230524, y: 0.6112139, z: 0.33200634}
+      rotation: {x: 0.5198686, y: 0.6519035, z: -0.45701754, w: 0.3096666}
+      scale: {x: 0.99999946, y: 1.4999998, z: 0.9999998}
+    - name: Eye Shine Right
+      parentName: Triceratops Head
+      position: {x: -0.14777659, y: 0.63712513, z: -0.2625107}
+      rotation: {x: -0.22297762, y: -0.39261982, z: 0.76006395, w: -0.4673687}
+      scale: {x: 0.8882765, y: 1.3324151, z: 0.8882769}
+    - name: Triceratops Jaw
+      parentName: Triceratops Head
+      position: {x: 0.114522934, y: 0.2777566, z: 0.0000004076492}
+      rotation: {x: -1.658848e-12, y: -0.000002635722, z: 0.95028925, w: -0.31136867}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: Triceratops Tongue
+      parentName: Triceratops Jaw
+      position: {x: -0.08378463, y: 0.025307616, z: 0.00000003216337}
+      rotation: {x: -2.5732292e-13, y: -0.0000009095586, z: 0.32793427, w: 0.9447006}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Triceratops Tongue02
+      parentName: Triceratops Tongue
+      position: {x: -0.15566345, y: -0.000082778926, z: -2.2992025e-10}
+      rotation: {x: 7.6449447e-14, y: 0.00000067464424, z: -0.24323773, w: 0.9699667}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Triceratops Tongue03
+      parentName: Triceratops Tongue02
+      position: {x: -0.117946506, y: -0.000093231196, z: -2.5887856e-10}
+      rotation: {x: 1.4090821e-13, y: -0.00000017196801, z: 0.062001746, w: 0.9980761}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Triceratops L Eyebrow
+      parentName: Triceratops Head
+      position: {x: -0.27656028, y: 0.7078105, z: 0.31276947}
+      rotation: {x: -0.1482619, y: 0.14389397, z: 0.54083323, w: 0.81536025}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Triceratops L Lower Eyelid
+      parentName: Triceratops Head
+      position: {x: -0.122552335, y: 0.49548045, z: 0.26613384}
+      rotation: {x: -0.14273962, y: -0.25078598, z: 0.84184915, w: -0.45609412}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: Triceratops L Upper Eyelid
+      parentName: Triceratops Head
+      position: {x: -0.14432289, y: 0.4988254, z: 0.26108286}
+      rotation: {x: 0.30096376, y: 0.15287952, z: -0.57081217, w: 0.7484799}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Triceratops R Eyebrow
+      parentName: Triceratops Head
+      position: {x: -0.27656028, y: 0.7078123, z: -0.31276554}
+      rotation: {x: 0.14826189, y: -0.14389697, z: 0.54083246, w: 0.81536025}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Triceratops R Lower Eyelid
+      parentName: Triceratops Head
+      position: {x: -0.122552335, y: 0.49548197, z: -0.2661311}
+      rotation: {x: 0.14273964, y: 0.25078127, z: 0.8418506, w: -0.45609406}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Triceratops R Upper Eyelid
+      parentName: Triceratops Head
+      position: {x: -0.14432289, y: 0.49882686, z: -0.26108012}
+      rotation: {x: -0.30096376, y: -0.15287638, z: -0.570813, w: 0.7484799}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Triceratops R Clavicle
+      parentName: Triceratops Spine1
+      position: {x: -0.347866, y: 0.041014176, z: -0.10145467}
+      rotation: {x: 0.69955474, y: -0.10306214, z: 0.69947463, w: -0.10361827}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Triceratops R UpperArm
+      parentName: Triceratops R Clavicle
+      position: {x: -0.35506767, y: 0, z: 0}
+      rotation: {x: 0.6955445, y: -0.082963705, z: -0.08284376, w: 0.70885247}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Triceratops R Forearm
+      parentName: Triceratops R UpperArm
+      position: {x: -0.24307314, y: -0.000000019073486, z: 0}
+      rotation: {x: 0.004952131, y: -0.024425248, z: 0.03140554, w: 0.99919605}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: Triceratops R Hand
+      parentName: Triceratops R Forearm
+      position: {x: -0.23474701, y: 0.000000019073486, z: 0.000000038146972}
+      rotation: {x: 0.11353018, y: 0.014585266, z: 0.057549946, w: 0.9917592}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Triceratops R Finger0
+      parentName: Triceratops R Hand
+      position: {x: -0.15194286, y: 0, z: 0}
+      rotation: {x: 0.00039815909, y: -2.0298517e-10, z: 0.0000000018627262, w: 0.99999994}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Triceratops Tail
+      parentName: Triceratops Pelvis
+      position: {x: 0.08457718, y: -0.19123302, z: 0.00000041852385}
+      rotation: {x: -0.00000083795663, y: -0.00000023841855, z: 0.67948526, w: 0.7336892}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Triceratops Tail02
+      parentName: Triceratops Tail
+      position: {x: -0.20113109, y: -0.0001599121, z: -4.2608006e-10}
+      rotation: {x: -0.000000055098262, y: 0.00000010840617, z: -0.017718177, w: 0.99984306}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Triceratops Tail03
+      parentName: Triceratops Tail02
+      position: {x: -0.20114997, y: -0.00013206482, z: -2.8521754e-10}
+      rotation: {x: -0.00000027456855, y: 0.0000005580057, z: -0.091172956, w: 0.99583507}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: Triceratops Tail04
+      parentName: Triceratops Tail03
+      position: {x: -0.16855766, y: -0.00012802123, z: -2.2817402e-10}
+      rotation: {x: -0.00000040167305, y: 0.0000009378702, z: -0.15207843, w: 0.98836845}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Triceratops Tail05
+      parentName: Triceratops Tail04
+      position: {x: -0.16852814, y: -0.000133667, z: -3.5273842e-10}
+      rotation: {x: -0.000000062771434, y: 0.00000025411256, z: -0.040115006, w: 0.9991951}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: cfdfdf631ed32ab44853635c0b8131db,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

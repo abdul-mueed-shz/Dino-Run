@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: b6d743eaf1589874c9e2046d4b6d8055
+timeCreated: 1506722822
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dummy001
+    100004: Raptor
+    100006: Sphere001
+    100008: Eye Right
+    100010: Eye Squash Right
+    100012: Eye Left
+    100014: Eye Squash Left
+    100016: Eye Shine
+    100018: Eye Shine Left
+    100020: Eye Shine Left 1
+    100022: Raptor Test
+    100024: Object001
+    100026: Eye Shine Right
+    100028: Raptor Head
+    100030: Raptor Jaw
+    100032: Raptor L Calf
+    100034: Raptor L Clavicle
+    100036: Raptor L Eyebrow
+    100038: Raptor L Finger0
+    100040: Raptor L Finger01
+    100042: Raptor L Finger1
+    100044: Raptor L Finger11
+    100046: Raptor L Foot
+    100048: Raptor L Forearm
+    100050: Raptor L Hand
+    100052: Raptor L Lower Eyelid
+    100054: Raptor L Lower Mouth
+    100056: Raptor L Mouth
+    100058: Raptor L Thigh
+    100060: Raptor L Toe0
+    100062: Raptor L Toe01
+    100064: Raptor L Upper Eyelid
+    100066: Raptor L Upper Mouth
+    100068: Raptor L UpperArm
+    100070: Raptor Neck
+    100072: Raptor Pelvis
+    100074: Raptor R Calf
+    100076: Raptor R Clavicle
+    100078: Raptor R Eyebrow
+    100080: Raptor R Finger0
+    100082: Raptor R Finger01
+    100084: Raptor R Finger1
+    100086: Raptor R Finger11
+    100088: Raptor R Foot
+    100090: Raptor R Forearm
+    100092: Raptor R Hand
+    100094: Raptor R Lower Eyelid
+    100096: Raptor R Lower Mouth
+    100098: Raptor R Mouth
+    100100: Raptor R Thigh
+    100102: Raptor R Toe0
+    100104: Raptor R Toe01
+    100106: Raptor R Upper Eyelid
+    100108: Raptor R Upper Mouth
+    100110: Raptor R UpperArm
+    100112: Raptor Spine
+    100114: Raptor Spine1
+    100116: Raptor Tail
+    100118: Raptor Tail02
+    100120: Raptor Tail03
+    100122: Raptor Tail04
+    100124: Raptor Tail05
+    100126: Raptor Tongue
+    100128: Raptor Tongue02
+    100130: Raptor Tongue03
+    100132: Raptor Mesh
+    100134: Raptor Footsteps
+    100136: Raptor HeadNub
+    100138: Raptor JawNub
+    100140: Raptor L EyebrowNub
+    100142: Raptor L Finger0Nub
+    100144: Raptor L Finger1Nub
+    100146: Raptor L Lower EyelidNub
+    100148: Raptor L Lower MouthNub
+    100150: Raptor L MouthNub
+    100152: Raptor L Toe0Nub
+    100154: Raptor L Upper EyelidNub
+    100156: Raptor L Upper MouthNub
+    100158: Raptor R EyebrowNub
+    100160: Raptor R Finger0Nub
+    100162: Raptor R Finger1Nub
+    100164: Raptor R Lower EyelidNub
+    100166: Raptor R Lower MouthNub
+    100168: Raptor R MouthNub
+    100170: Raptor R Toe0Nub
+    100172: Raptor R Upper EyelidNub
+    100174: Raptor R Upper MouthNub
+    100176: Raptor TailNub
+    100178: Raptor TongueNub
+    400000: //RootNode
+    400002: Dummy001
+    400004: Raptor
+    400006: Sphere001
+    400008: Eye Right
+    400010: Eye Squash Right
+    400012: Eye Left
+    400014: Eye Squash Left
+    400016: Eye Shine
+    400018: Eye Shine Left
+    400020: Eye Shine Left 1
+    400022: Raptor Test
+    400024: Object001
+    400026: Eye Shine Right
+    400028: Raptor Head
+    400030: Raptor Jaw
+    400032: Raptor L Calf
+    400034: Raptor L Clavicle
+    400036: Raptor L Eyebrow
+    400038: Raptor L Finger0
+    400040: Raptor L Finger01
+    400042: Raptor L Finger1
+    400044: Raptor L Finger11
+    400046: Raptor L Foot
+    400048: Raptor L Forearm
+    400050: Raptor L Hand
+    400052: Raptor L Lower Eyelid
+    400054: Raptor L Lower Mouth
+    400056: Raptor L Mouth
+    400058: Raptor L Thigh
+    400060: Raptor L Toe0
+    400062: Raptor L Toe01
+    400064: Raptor L Upper Eyelid
+    400066: Raptor L Upper Mouth
+    400068: Raptor L UpperArm
+    400070: Raptor Neck
+    400072: Raptor Pelvis
+    400074: Raptor R Calf
+    400076: Raptor R Clavicle
+    400078: Raptor R Eyebrow
+    400080: Raptor R Finger0
+    400082: Raptor R Finger01
+    400084: Raptor R Finger1
+    400086: Raptor R Finger11
+    400088: Raptor R Foot
+    400090: Raptor R Forearm
+    400092: Raptor R Hand
+    400094: Raptor R Lower Eyelid
+    400096: Raptor R Lower Mouth
+    400098: Raptor R Mouth
+    400100: Raptor R Thigh
+    400102: Raptor R Toe0
+    400104: Raptor R Toe01
+    400106: Raptor R Upper Eyelid
+    400108: Raptor R Upper Mouth
+    400110: Raptor R UpperArm
+    400112: Raptor Spine
+    400114: Raptor Spine1
+    400116: Raptor Tail
+    400118: Raptor Tail02
+    400120: Raptor Tail03
+    400122: Raptor Tail04
+    400124: Raptor Tail05
+    400126: Raptor Tongue
+    400128: Raptor Tongue02
+    400130: Raptor Tongue03
+    400132: Raptor Mesh
+    400134: Raptor Footsteps
+    400136: Raptor HeadNub
+    400138: Raptor JawNub
+    400140: Raptor L EyebrowNub
+    400142: Raptor L Finger0Nub
+    400144: Raptor L Finger1Nub
+    400146: Raptor L Lower EyelidNub
+    400148: Raptor L Lower MouthNub
+    400150: Raptor L MouthNub
+    400152: Raptor L Toe0Nub
+    400154: Raptor L Upper EyelidNub
+    400156: Raptor L Upper MouthNub
+    400158: Raptor R EyebrowNub
+    400160: Raptor R Finger0Nub
+    400162: Raptor R Finger1Nub
+    400164: Raptor R Lower EyelidNub
+    400166: Raptor R Lower MouthNub
+    400168: Raptor R MouthNub
+    400170: Raptor R Toe0Nub
+    400172: Raptor R Upper EyelidNub
+    400174: Raptor R Upper MouthNub
+    400176: Raptor TailNub
+    400178: Raptor TongueNub
+    2300000: //RootNode
+    2300002: Raptor
+    2300004: Sphere001
+    2300006: Eye Right
+    2300008: Eye Left
+    2300010: Eye Shine
+    2300012: Eye Shine Left
+    2300014: Eye Shine Left 1
+    2300016: Raptor Test
+    2300018: Object001
+    2300020: Eye Shine Right
+    3300000: //RootNode
+    3300002: Raptor
+    3300004: Sphere001
+    3300006: Eye Right
+    3300008: Eye Left
+    3300010: Eye Shine
+    3300012: Eye Shine Left
+    3300014: Eye Shine Left 1
+    3300016: Raptor Test
+    3300018: Object001
+    3300020: Eye Shine Right
+    4300000: Raptor
+    4300002: Sphere001
+    4300004: Eye Right
+    4300006: Eye Left
+    4300008: Eye Shine
+    4300010: Eye Shine Left
+    4300012: Eye Shine Left
+    4300014: Raptor Test
+    4300016: Object001
+    4300018: Eye Shine Right
+    4300020: Raptor Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Raptor Test
+    13700002: Raptor Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Raptor Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Finger0
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Finger01
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Finger0
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Finger01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Finger1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor R Finger11
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Finger1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Raptor L Finger11
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Velociraptor Humanoid(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Raptor
+      parentName: Velociraptor Humanoid(Clone)
+      position: {x: -0.002, y: 1.012, z: -0.324}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor Pelvis
+      parentName: Raptor
+      position: {x: -0.22472385, y: -0.0000003129244, z: -0.13359767}
+      rotation: {x: -0.00000038743013, y: 0.7071077, z: 0.7071059, w: 0.00000056624407}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Raptor L Thigh
+      parentName: Raptor Pelvis
+      position: {x: 0.00000015258789, y: 0.00000020980835, z: 0.11604471}
+      rotation: {x: 0.63578475, y: 0.75337124, z: 0.09824136, w: 0.1362284}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: Raptor L Calf
+      parentName: Raptor L Thigh
+      position: {x: -0.48415932, y: 0, z: 0}
+      rotation: {x: 0.022724941, y: -0.024441138, z: 0.28943786, w: 0.9566149}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Raptor L Foot
+      parentName: Raptor L Calf
+      position: {x: -0.232771, y: -0.000000019073486, z: 0.000000019073486}
+      rotation: {x: 0.16178995, y: 0.01737694, z: -0.3750411, w: 0.9126151}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999999}
+    - name: Raptor L Toe0
+      parentName: Raptor L Foot
+      position: {x: -0.09323506, y: 0.17405048, z: 0}
+      rotation: {x: 0.008734298, y: 0.0016748713, z: 0.5317931, w: -0.8468276}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Raptor L Toe01
+      parentName: Raptor L Toe0
+      position: {x: -0.12115211, y: 0, z: 0}
+      rotation: {x: 0, y: -2.473826e-10, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Raptor R Thigh
+      parentName: Raptor Pelvis
+      position: {x: -0.00000015258789, y: -0.0000001335144, z: -0.11604471}
+      rotation: {x: 0.6357852, y: 0.75337094, z: -0.09824303, w: -0.13622665}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Raptor R Calf
+      parentName: Raptor R Thigh
+      position: {x: -0.48415935, y: 0.000000019073486, z: 0}
+      rotation: {x: -0.02272462, y: 0.024440978, z: 0.2894379, w: 0.95661485}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: Raptor R Foot
+      parentName: Raptor R Calf
+      position: {x: -0.232771, y: -0.000000019073486, z: -0.000000019073486}
+      rotation: {x: -0.12298671, y: 0.015653055, z: -0.34762326, w: 0.92940164}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Raptor R Toe0
+      parentName: Raptor R Foot
+      position: {x: -0.09323509, y: 0.17405052, z: 0.000000038146972}
+      rotation: {x: 0.040969405, y: 0.056801345, z: 0.5789309, w: -0.81236327}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor R Toe01
+      parentName: Raptor R Toe0
+      position: {x: -0.12115211, y: 0, z: 0}
+      rotation: {x: 0, y: 9.895303e-10, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor Spine
+      parentName: Raptor Pelvis
+      position: {x: 0.04366043, y: 0.09072224, z: -0.0000003147125}
+      rotation: {x: -0.012170063, y: 0.019988598, z: -0.7275765, w: 0.68562734}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Raptor Spine1
+      parentName: Raptor Spine
+      position: {x: -0.24495037, y: -0.0001713562, z: -5.9604643e-10}
+      rotation: {x: 0.005855292, y: -0.008375513, z: 0.19090593, w: 0.98155516}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Raptor L Clavicle
+      parentName: Raptor Spine1
+      position: {x: -0.2273764, y: 0.020232009, z: 0.025647312}
+      rotation: {x: 0.7147684, y: -0.10973723, z: -0.68034256, w: 0.11915537}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Raptor L UpperArm
+      parentName: Raptor L Clavicle
+      position: {x: -0.16175514, y: -0.000000076293944, z: 0}
+      rotation: {x: -0.3358251, y: 0.018837364, z: -0.15463118, w: 0.92895424}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Raptor L Forearm
+      parentName: Raptor L UpperArm
+      position: {x: -0.18615307, y: 0.000000019073486, z: 0}
+      rotation: {x: -0.017702064, y: 0.015336957, z: 0.0004159415, w: 0.99972564}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Raptor L Hand
+      parentName: Raptor L Forearm
+      position: {x: -0.25356206, y: 0, z: -0.000000038146972}
+      rotation: {x: -0.1939646, y: 0.009367823, z: -0.009181854, w: 0.98092085}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Raptor L Finger0
+      parentName: Raptor L Hand
+      position: {x: -0.13872291, y: -0.012449875, z: -0.030007094}
+      rotation: {x: -0.068118736, y: 0.07412743, z: -0.015192893, w: 0.9948036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor L Finger01
+      parentName: Raptor L Finger0
+      position: {x: -0.068703994, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.02341306, y: -0.0012190111, z: -0.2935143, w: 0.95566714}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Raptor L Finger1
+      parentName: Raptor L Hand
+      position: {x: -0.13473041, y: 0.0020194245, z: 0.031660672}
+      rotation: {x: -0.07490225, y: 0.09496205, z: 0.044850245, w: 0.99164534}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: Raptor L Finger11
+      parentName: Raptor L Finger1
+      position: {x: -0.07271297, y: -0.000000038146972, z: 0.000000019073486}
+      rotation: {x: -0.05523742, y: 0.016259583, z: -0.26739535, w: 0.961865}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Raptor Neck
+      parentName: Raptor Spine1
+      position: {x: -0.23587592, y: -0.000094490046, z: -1.4901161e-10}
+      rotation: {x: 9.771514e-10, y: -0.00000032137493, z: 0.0038736756, w: 0.9999925}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Raptor Head
+      parentName: Raptor Neck
+      position: {x: -0.12192527, y: -0.000000076293944, z: 0}
+      rotation: {x: 0.026080731, y: -0.013998124, z: -0.13862477, w: 0.98990256}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Eye Squash Left
+      parentName: Raptor Head
+      position: {x: -0.24402778, y: 0.33356994, z: 0.14492355}
+      rotation: {x: -0.69481605, y: 0.13126573, z: 0.6948163, w: -0.13126425}
+      scale: {x: 0.53267133, y: 1.0000002, z: 1}
+    - name: Eye Left
+      parentName: Eye Squash Left
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.6221903, y: -0.325925, z: -0.34108073, w: 0.6247528}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye Shine Left
+      parentName: Eye Squash Left
+      position: {x: -0.101941675, y: -0.03922264, z: 0.03864212}
+      rotation: {x: 0.4510586, y: -0.33544114, z: -0.5827695, w: 0.5868604}
+      scale: {x: 0.9999996, y: 1.4999998, z: 0.99999994}
+    - name: Eye Squash Right
+      parentName: Raptor Head
+      position: {x: -0.24402778, y: 0.33357048, z: -0.14962026}
+      rotation: {x: 0.69702893, y: 0.11895675, z: -0.69702876, w: -0.11895752}
+      scale: {x: 0.53267133, y: 1.0000002, z: 1}
+    - name: Eye Right
+      parentName: Eye Squash Right
+      position: {x: -0, y: 0.000000076293944, z: 0}
+      rotation: {x: 0.5421541, y: 0.4214602, z: 0.44850287, w: 0.57208866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye Shine Right
+      parentName: Eye Squash Right
+      position: {x: 0.10685135, y: -0.018074645, z: 0.041727446}
+      rotation: {x: 0.49097726, y: 0.33335078, z: 0.5116998, w: 0.6212744}
+      scale: {x: 0.99999964, y: 1.547225, z: 1.0000001}
+    - name: Raptor Jaw
+      parentName: Raptor Head
+      position: {x: -0.20331009, y: 0.13654529, z: 0.00000018596648}
+      rotation: {x: -0.0000007180494, y: -0.000002454034, z: 0.84414756, w: -0.53611094}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Raptor L Lower Mouth
+      parentName: Raptor Jaw
+      position: {x: -0.30584022, y: 0.032613754, z: 0.13912906}
+      rotation: {x: 0.66609395, y: -0.23731416, z: -0.6659054, w: -0.23784633}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Raptor R Lower Mouth
+      parentName: Raptor Jaw
+      position: {x: -0.3058402, y: 0.032614518, z: -0.13912848}
+      rotation: {x: 0.66609395, y: -0.2373179, z: 0.6659041, w: 0.23784639}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Raptor Tongue
+      parentName: Raptor Jaw
+      position: {x: -0.18692017, y: 0.110098876, z: 0.00000076174734}
+      rotation: {x: 1.5414283e-13, y: -0.0000010941857, z: 0.3945002, w: 0.91889584}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Raptor Tongue02
+      parentName: Raptor Tongue
+      position: {x: -0.10869583, y: -0.00008148193, z: -2.9802322e-10}
+      rotation: {x: -3.1561472e-13, y: 0.00000047761955, z: -0.17220196, w: 0.9850617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Raptor Tongue03
+      parentName: Raptor Tongue02
+      position: {x: -0.10865501, y: -0.0000856018, z: -1.4901161e-10}
+      rotation: {x: 6.047406e-14, y: -0.00000018280677, z: 0.06590951, w: 0.9978256}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Raptor L Eyebrow
+      parentName: Raptor Head
+      position: {x: -0.3973554, y: 0.41611794, z: 0.16070385}
+      rotation: {x: -0.07018201, y: 0.15570189, z: 0.6101617, w: 0.7736499}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor L Lower Eyelid
+      parentName: Raptor Head
+      position: {x: -0.23842384, y: 0.30981725, z: 0.06659149}
+      rotation: {x: -0.29688567, y: -0.43558455, z: 0.7446491, w: -0.4094175}
+      scale: {x: 0.9999999, y: 1, z: 0.9999998}
+    - name: Raptor L Mouth
+      parentName: Raptor Head
+      position: {x: -0.24057388, y: 0.15546806, z: 0.2130844}
+      rotation: {x: -0.0002810585, y: 0.7071067, z: -0.0002800228, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor L Upper Eyelid
+      parentName: Raptor Head
+      position: {x: -0.25874144, y: 0.30344465, z: 0.07492094}
+      rotation: {x: 0.47713807, y: 0.19035187, z: -0.4176019, w: 0.74947584}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Raptor L Upper Mouth
+      parentName: Raptor Head
+      position: {x: -0.09651794, y: 0.44183257, z: 0.1558456}
+      rotation: {x: -0.0002810585, y: 0.7071067, z: -0.0002800228, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor R Eyebrow
+      parentName: Raptor Head
+      position: {x: -0.3973554, y: 0.41611883, z: -0.16070154}
+      rotation: {x: 0.07018201, y: -0.15570526, z: 0.6101609, w: 0.7736499}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Raptor R Lower Eyelid
+      parentName: Raptor Head
+      position: {x: -0.23842384, y: 0.30981758, z: -0.06658978}
+      rotation: {x: 0.29688564, y: 0.43558052, z: 0.74465156, w: -0.4094175}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Raptor R Mouth
+      parentName: Raptor Head
+      position: {x: -0.24057388, y: 0.15546924, z: -0.21308354}
+      rotation: {x: 0.0002810585, y: -0.7071067, z: -0.0002839774, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor R Upper Eyelid
+      parentName: Raptor Head
+      position: {x: -0.25874144, y: 0.30344513, z: -0.07491925}
+      rotation: {x: -0.47713804, y: -0.1903496, z: -0.417603, w: 0.74947584}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Raptor R Upper Mouth
+      parentName: Raptor Head
+      position: {x: -0.09651794, y: 0.4418335, z: -0.15584312}
+      rotation: {x: 0.0002810585, y: -0.7071067, z: -0.0002839774, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Raptor R Clavicle
+      parentName: Raptor Spine1
+      position: {x: -0.2273764, y: 0.020232162, z: -0.025647199}
+      rotation: {x: 0.71476775, y: -0.109738946, z: 0.6803426, w: -0.11915704}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Raptor R UpperArm
+      parentName: Raptor R Clavicle
+      position: {x: -0.16175514, y: 0, z: 0}
+      rotation: {x: 0.33582497, y: -0.01883658, z: -0.15463193, w: 0.9289542}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Raptor R Forearm
+      parentName: Raptor R UpperArm
+      position: {x: -0.18615302, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.01770204, y: -0.015337344, z: 0.0004167351, w: 0.99972564}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Raptor R Hand
+      parentName: Raptor R Forearm
+      position: {x: -0.2535621, y: 0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 0.19534248, y: 0.06026546, z: -0.01844568, w: 0.97870797}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Raptor R Finger0
+      parentName: Raptor R Hand
+      position: {x: -0.13872291, y: -0.012449836, z: 0.030007115}
+      rotation: {x: 0.2095758, y: -0.07991672, z: 0.04159759, w: 0.97363293}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Raptor R Finger01
+      parentName: Raptor R Finger0
+      position: {x: -0.06870392, y: -0.000000038146972, z: 0.000000019073486}
+      rotation: {x: -0.02283784, y: 0.0052991314, z: -0.12166082, w: 0.99229485}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Raptor R Finger1
+      parentName: Raptor R Hand
+      position: {x: -0.13473041, y: 0.0020193863, z: -0.031660672}
+      rotation: {x: 0.13450652, y: -0.110050514, z: 0.047097877, w: 0.9836558}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Raptor R Finger11
+      parentName: Raptor R Finger1
+      position: {x: -0.072712936, y: 0.000000019073486, z: 0.000000019073486}
+      rotation: {x: 0.00000005122271, y: -0.00000014249227, z: -0.19260356, w: 0.9812767}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Raptor Tail
+      parentName: Raptor Pelvis
+      position: {x: 0.031207198, y: -0.11836887, z: 0.00000028848646}
+      rotation: {x: -0.0000005785955, y: -0.00000032782555, z: 0.60941565, w: 0.7928509}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Raptor Tail02
+      parentName: Raptor Tail
+      position: {x: -0.20502755, y: -0.00017585754, z: -4.4703483e-10}
+      rotation: {x: 0.000000020373987, y: 0.00000019779615, z: -0.26056352, w: 0.9654567}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Raptor Tail03
+      parentName: Raptor Tail02
+      position: {x: -0.22328655, y: -0.00017776489, z: -4.4703483e-10}
+      rotation: {x: -0.00000003658117, y: -0.0000000043875854, z: -0.073387906, w: 0.9973035}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Raptor Tail04
+      parentName: Raptor Tail03
+      position: {x: -0.22328216, y: -0.00017784118, z: -5.9604643e-10}
+      rotation: {x: 0.0000000012145398, y: 0.000000044496968, z: -0.18390179, w: 0.98294467}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Raptor Tail05
+      parentName: Raptor Tail04
+      position: {x: -0.22328201, y: -0.00017776489, z: -4.4703483e-10}
+      rotation: {x: 0.00000007534666, y: 0.0000000062254406, z: -0.13612558, w: 0.99069166}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Raptor Mesh
+      parentName: Velociraptor Humanoid(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
